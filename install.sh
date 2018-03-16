@@ -85,9 +85,6 @@ sudo systemctl start php7.0-fpm
 # Remove the default.conf symlink in sites-enabled directory
 sudo rm /etc/nginx/sites-enabled/default
 
-# Clone default.conf file from github
-git clone git://github.com/lunar456th/LempAutoConfig.git
-
 # Move the file under /etc/nginx/conf.d/ directory
 sudo mv -f LempAutoConfig/default.conf /etc/nginx/conf.d/default.conf
 
