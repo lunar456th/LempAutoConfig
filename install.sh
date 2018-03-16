@@ -105,6 +105,3 @@ sudo mv LempAutoConfig/test.php /usr/share/nginx/html/test.php
 # After test, replace ip address with your actual IP on /etc/nginx/conf.d/default.conf
 # The End.
 
-
-## Cleaning
-sudo rm -fr LempAutoConfig
