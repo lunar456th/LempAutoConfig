@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 ## Ubuntu 16.04 + Nginx + PHP7.0 + MariaDB
 ## Auto Installation and Configuration
 
