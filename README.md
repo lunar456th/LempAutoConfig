@@ -33,7 +33,7 @@ Thanks for using.
 
 
 
-Korean
+한국어
 
 - Ubuntu 16.04
 - Nginx
