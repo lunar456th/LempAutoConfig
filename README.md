@@ -35,7 +35,6 @@ Thanks for using.
 
 한국어
 
-- Ubuntu 16.04
 - Nginx
 - PHP 7.0
 - MariaDB
