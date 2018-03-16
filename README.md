@@ -56,6 +56,7 @@ Korean
 사용법
 
 (설치 전에 git을 먼저 설치하시기 바랍니다.)
+
 git clone git://github.com/lunar456th/LempAutoConfig.git
 
 chmod +x LempAutoConfig/install.sh
