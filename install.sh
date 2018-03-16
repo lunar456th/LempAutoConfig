@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 
 ## Ubuntu 16.04 + Nginx + PHP7.0 + MariaDB
@@ -104,4 +104,3 @@ sudo mv LempAutoConfig/test.php /usr/share/nginx/html/test.php
 # Open a browser and enter 192.168.0.1/test.php and check if it works
 # After test, replace ip address with your actual IP on /etc/nginx/conf.d/default.conf
 # The End.
-
