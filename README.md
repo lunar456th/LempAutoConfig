@@ -25,7 +25,7 @@ LempAutoConfig/install.sh
 
 Thanks for using.
 
-- - 
+
 
 Korean
 
